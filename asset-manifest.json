@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dummy-chatting-app/static/css/main.a93c3734.chunk.css",
+    "main.js": "/dummy-chatting-app/static/js/main.cf573ffc.chunk.js",
+    "main.js.map": "/dummy-chatting-app/static/js/main.cf573ffc.chunk.js.map",
+    "runtime-main.js": "/dummy-chatting-app/static/js/runtime-main.24f0cf67.js",
+    "runtime-main.js.map": "/dummy-chatting-app/static/js/runtime-main.24f0cf67.js.map",
+    "static/js/2.d83e14cf.chunk.js": "/dummy-chatting-app/static/js/2.d83e14cf.chunk.js",
+    "static/js/2.d83e14cf.chunk.js.map": "/dummy-chatting-app/static/js/2.d83e14cf.chunk.js.map",
+    "index.html": "/dummy-chatting-app/index.html",
+    "precache-manifest.83a60de096d113c7ff5e7198924facb4.js": "/dummy-chatting-app/precache-manifest.83a60de096d113c7ff5e7198924facb4.js",
+    "service-worker.js": "/dummy-chatting-app/service-worker.js",
+    "static/css/main.a93c3734.chunk.css.map": "/dummy-chatting-app/static/css/main.a93c3734.chunk.css.map",
+    "static/js/2.d83e14cf.chunk.js.LICENSE.txt": "/dummy-chatting-app/static/js/2.d83e14cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f0cf67.js",
+    "static/js/2.d83e14cf.chunk.js",
+    "static/css/main.a93c3734.chunk.css",
+    "static/js/main.cf573ffc.chunk.js"
+  ]
+}
